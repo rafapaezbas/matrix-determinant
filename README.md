@@ -5,7 +5,7 @@ Calculate squared matrix determinant in Javascript
 ## Example
 
 ``` javascript
-const { determinant } = require('./index.js')
+const { determinant } = require('@rafapaezbas/matrix-determinant')
 
 /*
 | 2  3  1 |
