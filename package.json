@@ -1,5 +1,5 @@
 {
-  "name": "matrix-determinant",
+  "name": "@rafapaezbas/matrix-determinant",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
